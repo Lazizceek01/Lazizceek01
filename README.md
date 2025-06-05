@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Laziz!
+![Hello Neon](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+
+# 👋 Hi, I'm Laziz!
 
 ## 💻 I'm a Frontend Developer
 
