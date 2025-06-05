@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Laziz!
 
-
 ## 💻 I'm a Frontend Developer
 
 - 🌱 Currently working on my personal frontend projects
