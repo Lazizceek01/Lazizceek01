@@ -1,5 +1,3 @@
-![Neon Hello](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
-
 # 👋 Hi, I'm Laziz!
 
 ## 💻 Frontend Developer | React Learner
